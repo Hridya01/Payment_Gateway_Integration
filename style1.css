@@ -1,0 +1,41 @@
+body{
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 400px;
+    background-position: right;
+}
+h1{
+
+    color:white;
+    padding:14px 16px;
+    background-color: #6b2525;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+.bottom-container{
+    background-color: #6b2525;
+    padding: 50px 0 20px;
+    margin: 100px auto 0 auto;
+}
+.footer-link{
+    position:relative;
+    color: rgb(197, 75, 66);
+    font-family: 'Open Sans', sans-serif;
+    left:35%;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.contact{
+    position:relative;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    top:10%;
+    left:35%;
+    margin: 10px 20px;
+    text-decoration: none;
+}
